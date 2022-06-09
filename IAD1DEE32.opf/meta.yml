@@ -1,0 +1,27 @@
+id: IAD1DEE32
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-28T16:46:34+00:00'
+last_modified: '2022-06-09T05:10:08.395150+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1CZ1395
+  title: འཇམ་དཔལ་མཚན་བརྗོད་ཀྱི་འགྲེལ་པ་རྡོ་རྗེའི་རྣལ་འབྱོར་གྱི་དེ་ཁོ་ན་ཉིད་སྣང་བར་བྱེད་པའི་ཉི་མ་ཆེན་པོ
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    87EC:
+      image_group_id: I1CZ1620
+      title: ''
+      total_pages: 328
+      order: 1
+      base_file: 87EC.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
